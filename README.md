@@ -33,10 +33,15 @@ Database: SQL-based systems for data extraction and transformation
 Simulated claims data used for analysis.
 
 Column	Description
+
 ClaimID	Unique ID for each claim
+
 MemberID	Unique ID for the member
+
 ClaimDate	Date of the claim
+
 ServiceType	Type of service (e.g., Inpatient, Outpatient)
+
 Amount	Claim amount in USD
 
 **Membership Data**
@@ -44,11 +49,17 @@ Amount	Claim amount in USD
 Simulated member demographic data used for analysis.
 
 Column	Description
+
 MemberID	Unique ID for the member
+
 Name	Member's full name
+
 Age	Member's age in years
+
 Gender	Member's gender
+
 PlanType	Health insurance plan type
+
 EnrollmentDate	Date when the member enrolled
 
 
